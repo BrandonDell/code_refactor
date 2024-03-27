@@ -1,4 +1,4 @@
-# code_refactor
+# Horiseon Refactor
 
 ## Motivation
 
@@ -19,9 +19,12 @@ Helps you determine which platforms are suited to your brand, using analytics to
 
  ## Installation 
  Clone the respository to you Github account and deploy the website once finished and approved code. 
+ 
+ Website Link: https://brandondell.github.io/code_refactor/
 
  ## Credits
  Brandon Dell Cioppia UCF Coding Student
+ 
 
  ## License
 N/A
