@@ -22,6 +22,9 @@ Helps you determine which platforms are suited to your brand, using analytics to
  
  Website Link: https://brandondell.github.io/code_refactor/
 
+ ## Image
+ ![Horiseon](./assets/images/Initial_View.png)
+
  ## Credits
  Brandon Dell Cioppia UCF Coding Student
  
